@@ -1,11 +1,24 @@
-## My Project
+## AWS DevSecOps WITH TREND MICRO
 
-TODO: Fill this README out!
+Welcome to the AWS DevSecOps with Trend Micro hands-on workshop.
 
-Be sure to:
+In this workshop, you will learn how to protect your application in the Pipeline in your AWS environment using Trend Micro Cloud One.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+
+## Learning Objectives
+The learning objectives of this workshop is to familiarize users with the deployment, configuration, automated security testing of applications in a Pipeline using Trend Micro - Cloud One.
+
+## Expected Duration:
+- 5 Hour
+
+## Who should attend
+- Developers
+- DevOps Engineers
+- Cloud Architects
+- Solution Architects
+- Information Security
+- GRC teams
+- Tech leads and Program Managers (PM)
 
 ## Security
 
