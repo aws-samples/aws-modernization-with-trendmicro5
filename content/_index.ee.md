@@ -26,9 +26,9 @@ The workshop is divided into the sections listed below. Plan on 4 hours to compl
 
 <span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 2. DevSecOps Open Source Lab (20 minutes)</b> 
 
-<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 4. Pipelie Phase - Code (40 minutes)</b>
+<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 4. Pipeline Phase - Code (40 minutes)</b>
 
-<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 6. Pipelie Phase - Deploy (40 minutes)</b>
+<span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 6. Pipeline Phase - Deploy (40 minutes)</b>
 
 <span style="color: #4e3eb1;"><i class='fas fa-check fa-xs'></i></span> <b> 7. Automating the whole Process (60 minutes)</b>
 
