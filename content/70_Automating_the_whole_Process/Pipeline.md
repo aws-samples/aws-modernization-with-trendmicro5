@@ -90,7 +90,7 @@ Finally let's deploy everything we've done so far automatically so that we have 
 
 {{% notice info %}}
 <p style='text-align: left;'>
-<b> If you still don't have a Cloud One API Key with Full Access created yet. Go check how to create </b> <a href="https://trendmicro-devsecops.awsworkshop.io/70_automating_the_whole_process/pipeline.html">HERE</a>!
+<b> If you still don't have a Cloud One API Key with Full Access created yet. Go check how to create </b> <a href="https://trendmicro-devsecops.awsworkshop.io/ee/40_finding_risks_in_open_source_dependencies/01_security_tools.html#2-create-your-api-key">HERE</a>!
 </p>
 {{% /notice %}}
 
