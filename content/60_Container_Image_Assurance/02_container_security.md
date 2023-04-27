@@ -250,6 +250,16 @@ Don't forget to put your <strong>ApiKey on the line with the name apiKey: your_a
         --values overrides.yaml \
         https://github.com/trendmicro/cloudone-container-security-helm/archive/master.tar.gz
 
+{{% notice info %}}
+<p style='text-align: left;'>
+If you see an error " helm: command not found " please install helm by using the commands below, then Re-Run the command above.
+</p>
+{{% /notice %}}
+
+    curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+    chmod 700 get_helm.sh
+    ./get_helm.sh
+
 ![EKS_CS](/images/ekscs16.PNG)
 
 ![EKS_CS](/images/ekscs17.PNG)
