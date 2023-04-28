@@ -167,13 +167,19 @@ Amazon EKS doesn't maintain the manifests used in the following procedures. The 
 
 **To install Calico using manifests:**
 
-    kubectl apply -f https://raw.githubusercontent.com/aws/amazon-vpc-cni-k8s/master/config/master/calico-operator.yaml
-    kubectl apply -f https://raw.githubusercontent.com/aws/amazon-vpc-cni-k8s/master/config/master/calico-crs.yaml
+    kubectl create -f https://raw.githubusercontent.com/projectcalico/calico/v3.25.1/manifests/tigera-operator.yaml
 
+    kubectl create -f - <<EOF
+    apiVersion: operator.tigera.io/v1
+    kind: Installation
+    metadata:
+      name: default
+    spec: {}
+    EOF
 
-![EKS](/images/eksctl10.PNG)
+![EKS](/images/calicoinstallation.png)
 
-![EKS](/images/eksctl11.PNG)
+![EKS](/images/calicoinstallation2.png)
 
 **View the resources in the calico-system namespace.**
 
